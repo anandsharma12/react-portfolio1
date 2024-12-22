@@ -3,7 +3,7 @@
       {
         "date": "15/5/2024",
         "title": "XCrypto",
-        "description": "The Bitcoin Portfolio Tracker is a React-based web application that allows users to monitor and manage their Bitcoin holdings in real-time. The app connects to live Bitcoin price feeds via cryptocurrency APIs.",
+        "description": "Built with React, this Bitcoin tracker allows real-time portfolio monitoring, displaying live price updates and market trends seamlessly.",
         "url": "https://react-bitcoin-ochre.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
       },
@@ -11,14 +11,14 @@
       {
         "date": "19/12/2024",
         "title": "CountriesData",
-        "description": "This React project allows users to explore a comprehensive list of countries by fetching real-time data from an external API. The application includes Axios,React-Router-Dom, searching,sorting to enhance the user experience.",
+        "description": "Built a React app to display real-time country data using APIs, including population, capital, languages, and region details.",
         "url": "https://fluffy-toffee-2c539e.netlify.app/",
         "imgSrc": "https://pixabay.com/get/g0d7f19e09e766110e2bb79ec205fdcfdb50b3da7a22bfb72b7ff8baac35d94b20ac69aabb204af2dc63ed94fa4b38e9f_1280.jpg"
       },
       {
         "date": "7/12/2023",
         "title": "Sidcup_Golf_House",
-        "description": "It's Sidcup's Golf Club House Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features.",
+        "description": "It's a Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features.",
         "url": "https://sidcup-golf-house-theta.vercel.app/",
         "imgSrc": "https://pixabay.com/get/g9248f09fa13c355a0c161fefa53f8fd84392c7af9d90396aec5aa85b1e80f12ab507b29cef79d96a73ef10e8242004cb_1280.jpg"
       },
@@ -26,14 +26,14 @@
       {
         "date": "17/10/2023",
         "title": "Weather_WebApp",
-        "description": "User-friendly web application built with React that allows users to get real-time weather updates for any location in the world. It includes Weather information like temperature, humidity, wind speed, and forecasts.",
+        "description": "A React-based weather app providing real-time updates, forecasts, and accurate weather data using APIs for global locations.",
         "url": "https://react-w-sigma.vercel.app/",
         "imgSrc": "https://pixabay.com/get/g3233c44c08f6aba24cb3a72150db0fce8e42afa976212271e1da603eef3c348e3c0d9478be261c21e814dbaff5af2ceb3ca194c92e3da8f80813d0be30ef4808_1280.jpg"
       },
       {
         "date": "21/12/2024",
         "title": "React_Todo",
-        "description": "To-do list application built using React that allows users to manage data efficiently. The app integrates with a RESTful API using Axios for fetching data and performs full CRUD.",
+        "description": "Built a React-based To-Do app using Axios for API integration, enabling CRUD operations and real-time task management with ease.",
         "url": "https://zingy-pasca-80d7da.netlify.app/",
         "imgSrc": "https://pixabay.com/get/g7fbe2f372647f1e220c08d0a526a5f6063f2a8832c94987dd97d1cd20b264661d3cfb350247cf7c41dc32edb5dedf19d0d426fd72112c0b382edfd568e47ed53_1280.jpg"
       },
