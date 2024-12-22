@@ -11,7 +11,7 @@
       {
         "date": "19/12/2024",
         "title": "CountriesData",
-        "description": "This React project allows users to explore a comprehensive list of countries by fetching real-time data from an external API. The application includes so many features like Axios,React-Router-Dom, searching,sorting to enhance the user experience.",
+        "description": "This React project allows users to explore a comprehensive list of countries by fetching real-time data from an external API. The application includes Axios,React-Router-Dom, searching,sorting to enhance the user experience.",
         "url": "https://fluffy-toffee-2c539e.netlify.app/",
         "imgSrc": "https://pixabay.com/get/g0d7f19e09e766110e2bb79ec205fdcfdb50b3da7a22bfb72b7ff8baac35d94b20ac69aabb204af2dc63ed94fa4b38e9f_1280.jpg"
       },
