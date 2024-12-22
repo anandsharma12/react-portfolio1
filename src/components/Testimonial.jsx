@@ -9,7 +9,7 @@ const Testimonial = () => {
             "The frontend development for my website was exceptional, delivering a sleek, user-friendly design that exceeded expectations."
           }/>
              <TestimonialCard name={'Saksham'}   feedback={
-            "A highly skilled frontend developer with an excellent ability to transform designs into intuitive, responsive web applications. Consistently delivers high-quality work on time."
+            "A highly skilled frontend developer with an excellent ability to transform designs into intuitive, responsive web applications."
           }/>
              <TestimonialCard name={'Sourabh'}   feedback={
             "Thanks Brother, our platform now has an intuitive interface that enhances user experience and engagement."
