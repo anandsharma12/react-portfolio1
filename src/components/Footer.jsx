@@ -5,7 +5,8 @@ import {
     AiFillYoutube,
     AiOutlineArrowUp,
   } from "react-icons/ai";
-  
+  import { FaLinkedin } from "react-icons/fa";
+import { RiVercelLine } from "react-icons/ri";
 const Footer = () => {
   return (
     <footer>
@@ -17,8 +18,8 @@ const Footer = () => {
     <aside>
        <h2>Socila Media</h2>
        <article>
-        <a href="https://www.youtube.com/channel/UC4_VJcE7KH6OJeKehlIXhAw"><AiFillYoutube /></a>
-        <a href=""> <AiFillInstagram /></a>
+        <a href="https://www.linkedin.com/in/anand-sharma-a17181248/"><FaLinkedin /></a>
+        <a href="https://vercel.com/anandsharma12s-projects"> <RiVercelLine /></a>
         <a href="https://github.com/anandsharma12"><AiFillGithub /></a>
        </article>
     </aside>
