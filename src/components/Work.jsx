@@ -9,11 +9,11 @@ const Work = () => {
         <section>
             <article>
                 <Carousel
-                showArrows={false}
+                showArrows={true}
                 showIndicators={false}
                 showStatus={false}
-                showThumbs={true}
-                interval={2000}
+                showThumbs={false}
+                interval={1000}
                 infiniteLoop={true}
                 autoPlay={true}>
 
