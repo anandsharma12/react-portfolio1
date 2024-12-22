@@ -1,5 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import { FaReact } from "react-icons/fa";
+import { FaCss3Alt } from "react-icons/fa";
 import { AiFillIeCircle, AiFillAndroid, AiFillWindows } from 'react-icons/ai'
 const Services = () => {
     const animations = {
@@ -25,20 +27,20 @@ const Services = () => {
 
     return (
         <div id='services'>
-            <h2>Services</h2>
+            <h2>Skills</h2>
             <section>
                 <motion.div className='serviceBox1' 
                 whileInView={animations.whileInView}
                 initial={animations.one}>
 
-                    <h3>2+</h3>
-                    <p>Years Experience</p>
+                    <h3>1+</h3>
+                    <p>Year Experience</p>
                 </motion.div>
                 <motion.div className='serviceBox2'
                  whileInView={animations.whileInView}
                  initial={animations.twoAndThree}>
-                    <AiFillIeCircle />
-                    <span>Web Development</span>
+                    <FaReact />
+                    <span>ReactJs/Redux</span>
                 </motion.div>
                 <motion.div className='serviceBox3'
                  whileInView={animations.whileInView}
@@ -46,15 +48,15 @@ const Services = () => {
                  transition={{
                    delay: 0.2,
                  }}>
-                    <AiFillAndroid />
-                    <span>App Development</span>
+                    <AiFillIeCircle />
+                    <span>Html/CSS/Js</span>
                 </motion.div>
                 <motion.div className='serviceBox4'
                 whileInView={animations.whileInView}
                 initial={animations.four}
       >
-                    <AiFillWindows />
-                    <span>Desktop Development</span>
+                   <FaCss3Alt />
+                    <span>Tailwind/Bootstrap/Gsap</span>
                 </motion.div>
             </section>
         </div>
