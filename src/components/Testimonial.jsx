@@ -6,13 +6,13 @@ const Testimonial = () => {
       <h2>Testimonial</h2>
       <section>
         <TestimonialCard name={'Ajay'}   feedback={
-            "The frontend development for my website was exceptional, delivering a sleek, user-friendly design that exceeded expectations."
+            "Expert in transforming designs into functional, user-friendly web applications seamlessly."
           }/>
              <TestimonialCard name={'Saksham'}   feedback={
             "Delivers clean, responsive designs with seamless user experiences and performance."
           }/>
              <TestimonialCard name={'Sourabh'}   feedback={
-            "Thanks Brother, our platform now has an intuitive interface that enhances user experience and engagement."
+            "Creates intuitive, responsive interfaces that enhance user experience and performance."
           }/>
       </section>
     </div>
