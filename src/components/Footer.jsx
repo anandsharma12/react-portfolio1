@@ -6,7 +6,7 @@ import {
     AiOutlineArrowUp,
   } from "react-icons/ai";
   import { FaLinkedin } from "react-icons/fa";
-import { RiVercelLine } from "react-icons/ri";
+import { IoLogoVercel } from "react-icons/io5";
 const Footer = () => {
   return (
     <footer>
@@ -19,7 +19,7 @@ const Footer = () => {
        <h2>Socila Media</h2>
        <article>
         <a href="https://www.linkedin.com/in/anand-sharma-a17181248/"><FaLinkedin /></a>
-        <a href="https://vercel.com/anandsharma12s-projects"> <RiVercelLine /></a>
+        <a href="https://vercel.com/anandsharma12s-projects"><IoLogoVercel /></a>
         <a href="https://github.com/anandsharma12"><AiFillGithub /></a>
        </article>
     </aside>
