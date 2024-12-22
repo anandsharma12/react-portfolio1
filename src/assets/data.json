@@ -1,7 +1,7 @@
 {
     "projects": [
       {
-        "date": "15/10/2022",
+        "date": "15/5/2024",
         "title": "XCrypto",
         "description": "The Bitcoin Portfolio Tracker is a React-based web application that allows users to monitor and manage their Bitcoin holdings in real-time. The app connects to live Bitcoin price feeds via cryptocurrency APIs, offering users up-to-date information on market trends and the current value of their portfolio.",
         "url": "https://react-bitcoin-ochre.vercel.app/",
@@ -9,33 +9,41 @@
       },
   
       {
-        "date": "11/10/2022",
+        "date": "19/12/2024",
         "title": "CountriesData",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "https://fluffy-toffee-2c539e.netlify.app/",
         "imgSrc": "https://pixabay.com/get/g30ca20787198db205eac6e67d3ad976659f132f976cad5a8cb10ed5c2a2be1fc48bd8dd0c839d4d04a670b9420cb363b_1280.jpg"
       },
       {
-        "date": "15/10/2022",
+        "date": "7/12/2023",
         "title": "Sidcup_Golf_House",
-        "description": "It's Sidcup's Golf Club House Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features."
+        "description": "It's Sidcup's Golf Club House Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features.",
         "url": "https://sidcup-golf-house-theta.vercel.app/",
         "imgSrc": "https://pixabay.com/get/g3935e887b24a929ba9285045e83abf02fa8bd85a1c782284faa7617be0840cfcc4ec4152701771d273227296673b1d0e3765cb729785466a1e05280a83302808_1280.jpg"
       },
   
       {
-        "date": "17/10/2022",
+        "date": "17/10/2023",
         "title": "Weather_WebApp",
         "description": "WeatherNow is a sleek, user-friendly web application built with React that allows users to get real-time weather updates for any location in the world. It connects to a weather API to deliver accurate and up-to-date weather information, including temperature, humidity, wind speed, and forecasts.",
         "url": "https://react-w-sigma.vercel.app/",
         "imgSrc": "https://pixabay.com/get/gf452993f61ad6a0a04c4e4d5d6eb1e6763ae5cc37e6fa792274397f29cfe5bcea2fcd5bd39f7530dea23cdea8c09f0a81c30c28c4ecc822e2f84c060bf51de60_1280.jpg"
       },
       {
-        "date": "20/10/2022",
+        "date": "21/12/2024",
         "title": "React_Todo",
         "description": "TodoPro is a feature-rich to-do list application built using React that allows users to manage data efficiently. The app integrates with a RESTful API using Axios for fetching data and performs full CRUD (Create, Read, Update, Delete) operations to manage tasks on a server,",
         "url": "https://zingy-pasca-80d7da.netlify.app/",
         "imgSrc": "https://pixabay.com/get/g28f37dcd09c921158ef99bae34762a1b42213b101df32ab3345cef02384ae8389cb8b41082c6303ba9443fb9de02de7b91c23ac83fa4d4305aa3b7ae02ea561f_1280.jpg"
-      }
+      },
+     {
+        "date": "21/11/2023",
+        "title": "Rejouicd",
+        "description": "It's Sidcup's Golf Club House Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features.",
+        "url": "https://effortless-nougat-fb8abc.netlify.app/",
+        "imgSrc": "https://pixabay.com/get/g53fd54b91a9f536429d43519287493b70b24a891a7afaab5102584f793d69ea13022b2f010a4c7ad8f6d21c66717b1f7d1038ca9ce2a74cf51f1f76bf81ad754_1280.jpg"
+      },
+     
     ]
   }
