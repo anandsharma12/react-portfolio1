@@ -13,14 +13,14 @@
         "title": "CountriesData",
         "description": "Built a React app to display real-time country data using APIs, including population, capital, languages, and region details.",
         "url": "https://fluffy-toffee-2c539e.netlify.app/",
-        "imgSrc": "https://pixabay.com/get/g0d7f19e09e766110e2bb79ec205fdcfdb50b3da7a22bfb72b7ff8baac35d94b20ac69aabb204af2dc63ed94fa4b38e9f_1280.jpg"
+        "imgSrc": "https://media.istockphoto.com/id/1329836000/photo/signpost-with-national-flags-of-different-countries.jpg?b=1&s=612x612&w=0&k=20&c=fYp1TC6MPm7Gwu3YzcRxwclp1ludu5_5pBiFNxJ4UYQ="
       },
       {
         "date": "7/12/2023",
         "title": "Sidcup_Golf_House",
         "description": "It's a Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features.",
         "url": "https://sidcup-golf-house-theta.vercel.app/",
-        "imgSrc": "https://pixabay.com/get/g9248f09fa13c355a0c161fefa53f8fd84392c7af9d90396aec5aa85b1e80f12ab507b29cef79d96a73ef10e8242004cb_1280.jpg"
+        "imgSrc": "https://t3.ftcdn.net/jpg/00/08/48/90/360_F_8489083_gyFQj5QhX6ZpoH42Vwasg2ZCl1duhntD.jpg"
       },
   
       {
@@ -28,21 +28,21 @@
         "title": "Weather_WebApp",
         "description": "A React-based weather app providing real-time updates, forecasts, and accurate weather data using APIs for global locations.",
         "url": "https://react-w-sigma.vercel.app/",
-        "imgSrc": "https://pixabay.com/get/g3233c44c08f6aba24cb3a72150db0fce8e42afa976212271e1da603eef3c348e3c0d9478be261c21e814dbaff5af2ceb3ca194c92e3da8f80813d0be30ef4808_1280.jpg"
+        "imgSrc": "https://w0.peakpx.com/wallpaper/262/188/HD-wallpaper-clouds-summer-weather-clouds-weather-summer-nature.jpg"
       },
       {
         "date": "21/12/2024",
         "title": "React_Todo",
         "description": "Built a React-based To-Do app using Axios for API integration, enabling CRUD operations and real-time task management with ease.",
         "url": "https://zingy-pasca-80d7da.netlify.app/",
-        "imgSrc": "https://pixabay.com/get/g7fbe2f372647f1e220c08d0a526a5f6063f2a8832c94987dd97d1cd20b264661d3cfb350247cf7c41dc32edb5dedf19d0d426fd72112c0b382edfd568e47ed53_1280.jpg"
+        "imgSrc": "https://camo.envatousercontent.com/f2df271b1a33ff2cbc67b22af701ed74bd3b72a9/68747470733a2f2f692e706f7374696d672e63632f54326b34674c374a2f4672616d652d31342e6a7067"
       },
      {
         "date": "21/11/2023",
         "title": "Rejouice",
         "description": "It's a Frontend Website which has micro animations and scrolling animations. It is desktop based project which uses GSAP features.",
         "url": "https://effortless-nougat-fb8abc.netlify.app/",
-        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+        "imgSrc": "https://i.pinimg.com/736x/b3/e5/d5/b3e5d55c1a3dd3f8950ea8fe5a5c255d.jpg"
       }
     ]
   }
