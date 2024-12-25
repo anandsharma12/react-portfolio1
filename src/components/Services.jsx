@@ -49,7 +49,7 @@ const Services = () => {
                    delay: 0.2,
                  }}>
                     <AiFillIeCircle />
-                    <span>Html/CSS/Js</span>
+                    <span>Html5/CSS3/Js(ES6)</span>
                 </motion.div>
                 <motion.div className='serviceBox4'
                 whileInView={animations.whileInView}
